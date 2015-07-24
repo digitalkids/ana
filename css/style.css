@@ -1,0 +1,42 @@
+.text-descriere{
+  text-align:center;
+  color: brown;
+  text-transform:capitalize;
+  font-size:30px;
+  font-style:italic;
+    font-weight: bold;
+  text-decoration:overline;
+  margin-left:50px;
+    border-left:2px solid brown;
+  border-top:3px solid red;
+   border-right:4px solid green;
+  border-bottom:10px solid 
+}
+.lista1{
+  font-size:25px;
+  color:red;
+}
+img{
+ width:300;
+  height:300;
+  float:center;
+}
+.trex {
+  text-align:center;
+  border:9px solid green;
+  
+}
+
+
+
+body{
+  background-image: URL('http://tse1.mm.bing.net/th?&id=JN.867W3Jx9yqFCoE1%2bmDAr3A&w=300&h=300&c=0&pid=1.9&rs=0&p=0');
+  background-repeat:no-repeat;
+background-position:center;
+  background-size:cover;
+  background-attachment:fixed
+}
+img:hover{
+  border:15px solid red; 
+  border-radius:100px
+}
